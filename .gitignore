@@ -1,3 +1,7 @@
+# Sass
+.sass-cache
+scss/bourbon
+
 # Logs
 logs
 *.log
