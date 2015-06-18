@@ -93,9 +93,9 @@ body[data-hijacking="on"] {
   }
 
   @for $i from 1 through 8 {
-    [data-animation="parallax"] &:nth-of-type(#{$i}) > div,
-    [data-animation="fixed"] &:nth-of-type(#{$i}) > div,
-    [data-animation="opacity"] &:nth-of-type(#{$i}) > div {
+    [data-animation="parallax"] &:nth-of-type(#{$i+1}) > div,
+    [data-animation="fixed"] &:nth-of-type(#{$i+1}) > div,
+    [data-animation="opacity"] &:nth-of-type(#{$i+1}) > div {
       background-image: url('../img/img-#{$i}.png');
     }
   }

@@ -60,21 +60,21 @@ Main Components
     background-position: center center;
     background-repeat: no-repeat;
     background-size: contain; }
-  [data-animation="parallax"] .cd-section:nth-of-type(1) > div, [data-animation="fixed"] .cd-section:nth-of-type(1) > div, [data-animation="opacity"] .cd-section:nth-of-type(1) > div {
-    background-image: url("../img/img-1.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(2) > div, [data-animation="fixed"] .cd-section:nth-of-type(2) > div, [data-animation="opacity"] .cd-section:nth-of-type(2) > div {
-    background-image: url("../img/img-2.png"); }
+    background-image: url("../img/img-1.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(3) > div, [data-animation="fixed"] .cd-section:nth-of-type(3) > div, [data-animation="opacity"] .cd-section:nth-of-type(3) > div {
-    background-image: url("../img/img-3.png"); }
+    background-image: url("../img/img-2.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(4) > div, [data-animation="fixed"] .cd-section:nth-of-type(4) > div, [data-animation="opacity"] .cd-section:nth-of-type(4) > div {
-    background-image: url("../img/img-4.png"); }
+    background-image: url("../img/img-3.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(5) > div, [data-animation="fixed"] .cd-section:nth-of-type(5) > div, [data-animation="opacity"] .cd-section:nth-of-type(5) > div {
-    background-image: url("../img/img-5.png"); }
+    background-image: url("../img/img-4.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(6) > div, [data-animation="fixed"] .cd-section:nth-of-type(6) > div, [data-animation="opacity"] .cd-section:nth-of-type(6) > div {
-    background-image: url("../img/img-6.png"); }
+    background-image: url("../img/img-5.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(7) > div, [data-animation="fixed"] .cd-section:nth-of-type(7) > div, [data-animation="opacity"] .cd-section:nth-of-type(7) > div {
-    background-image: url("../img/img-7.png"); }
+    background-image: url("../img/img-6.png"); }
   [data-animation="parallax"] .cd-section:nth-of-type(8) > div, [data-animation="fixed"] .cd-section:nth-of-type(8) > div, [data-animation="opacity"] .cd-section:nth-of-type(8) > div {
+    background-image: url("../img/img-7.png"); }
+  [data-animation="parallax"] .cd-section:nth-of-type(9) > div, [data-animation="fixed"] .cd-section:nth-of-type(9) > div, [data-animation="opacity"] .cd-section:nth-of-type(9) > div {
     background-image: url("../img/img-8.png"); }
   @media only screen and (min-width: 1050px) {
     .cd-section h2 {
